@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">DevStore</string>
+    <string name="profile">Profile</string>
+    <string name="my_name">Herdi Herdianurdin</string>
+    <string name="my_email">herdianurdin@gmail.com</string>
+    <string name="description">Take your creativity and productivity to the next level with the groundbreaking ASUS ZenBook Pro Duo! Designed to give you the ultimate edge in workflow efficiency, this powerful RTX Studio Laptop features a full-width 4K ASUS ScreenPad™ Plus that works seamlessly with the main 4K UHD OLED display. It’s never been this easy to harness your full creative power.</string>
+    <string name="name">Asus Zenbook 13</string>
+    <string name="detail_product">Detail Product</string>
+    <string name="price">$1299.99</string>
+</resources>
